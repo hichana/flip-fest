@@ -1,4 +1,4 @@
-# hichana submission for milestone #2, FLIP issue #20
+# hichana submission for milestone #2, FLIP issue #29
 
 Thank you for reviewing my submission for FLIP issue #29 milestone: "2. Implement an updated UI for resource explorer with current set of features.". Before providing instructions and a screenshot-walkthrough of the UI, some clarifications: 
 
